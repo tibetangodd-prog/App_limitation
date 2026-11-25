@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">用量守門員</string>
-    <string name="service_description">偵測您所設定的軟體何時被開啟，並在適當時機顯示詢問視窗。本服務不會讀取螢幕內容。</string>
-</resources>
